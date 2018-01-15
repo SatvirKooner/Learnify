@@ -66,6 +66,8 @@ but.addEventListener("click",function(){
 		alert("Your answer is "+"\""+data.answers[cardnum]+"\".");
 		cardnum++;
 		chrome.storage.local.set({'num' : cardnum});
+		document.getElementById("questionField").value="";
+		document.getElementById("answerField").value="";
 		});
 
 	}
