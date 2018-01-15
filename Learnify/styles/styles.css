@@ -1,0 +1,59 @@
+body{
+	background-color: #0099cc
+
+}
+
+
+.card-cont{
+padding: 50px;
+}
+
+.input-cont{
+padding: 15px 0px;
+}
+
+.save-button{
+margin-right: : 20px;
+}
+
+.panel-container{
+	background-color: #ffffff
+
+ @media (min-width: 768px) {
+  .panel-container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .panel-container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .panel-container {
+    width: 1170px;
+  }
+}
+
+}
+
+.my-bg{
+	background-color: #336699
+
+}
+
+.my-title{
+	color: #ffffff
+}
+
+#questiontitle{
+	font-weight: bold;
+}
+
+#answertitle{
+	font-weight: bold;
+}
+
+#answer-para{
+	padding: 5px;
+}
