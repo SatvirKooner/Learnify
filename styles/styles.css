@@ -1,0 +1,135 @@
+body{
+	background-color: #ff6666;
+  overflow-x: hidden;
+
+}
+
+
+.card-cont{
+padding: 50px;
+}
+
+.input-cont{
+padding: 15px 0px;
+}
+
+.save-button{
+margin-right: : 20px;
+}
+
+.panel-container{
+	background-color: #ffffff
+
+ @media (min-width: 768px) {
+  .panel-container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .panel-container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .panel-container {
+    width: 1170px;
+  }
+}
+
+}
+
+.my-bg{
+	background-color: #FF5470;
+
+}
+
+.my-title{
+	color: #ffffff;
+}
+
+#questiontitle{
+	font-weight: bold;
+}
+
+#answertitle{
+	font-weight: bold;
+}
+
+#answer-para{
+	padding: 5px;
+}
+
+#deck-selector{
+  width: 66.6%;
+  margin: 0px auto;
+  margin-top: 2em;
+  padding: 1em 1em;
+}
+
+
+.dropdown{
+  margin-left: 1em;
+}
+
+.viewing{
+  word-wrap: break-word;
+}
+
+
+#dropdownMenu2{
+  font-size: 19px;
+}
+
+.my-4{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#buts{
+  margin-top: 1em;
+}
+.butholder{
+  margin: 0.5em 1em;
+}
+
+.deckbuts{
+  margin-left: 0.5em;
+}
+
+.btn-info,.btn-danger{
+  font-size: 18px;
+
+}
+
+
+
+.viewing{
+  margin-top: 0.5em;
+}
+
+.lead{
+  font-size: 21px;
+}
+
+.deldeck{
+  margin-right: 0.25em;
+}
+
+.alright{
+
+  float: right;
+  font-size: 14px;
+  padding: 2px 6px;
+  margin: 0px;
+  margin-left: 2px;
+
+}
+
+.filler{
+  margin-bottom: 2px;
+}
+
+#questionList,#answerList{
+  font-size: 18px;
+  word-wrap: break-word;
+}
